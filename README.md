@@ -5,3 +5,5 @@
 Just to learn how to use travis-ci in a java project!
 
 This is a working minimal example of how to use Travis CI (and Codecov) with Java on GitHub.
+
+test
